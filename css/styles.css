@@ -1,0 +1,52 @@
+#card
+{
+  width: 300px;
+  margin: 15px;
+  background-color: #003;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 7px 7px 6px 0px rgba(123,121,138,0.45);
+  padding: 20px;
+}
+
+body
+{
+  font-family: sans-serif;
+  font-size: 12px;
+  color: white;
+}
+
+h3
+{
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+img
+{
+  margin-top: -10px;
+  border-radius: 10px;
+}
+
+.information
+{
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.interesting-fact
+{
+  font-style: italic;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+.labels
+{
+  font-weight: bold;
+}
