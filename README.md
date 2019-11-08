@@ -13,6 +13,6 @@ This project was intended to be a first project to learn HTML and CSS. Only HTML
 	* Modifying text content
 2. CSS skills
 	* Adding a border
-  * Adding padding
-  * Italicizing text
-  * Altering list item bullets
+  	* Adding padding
+  	* Italicizing text
+  	* Altering list item bullets
